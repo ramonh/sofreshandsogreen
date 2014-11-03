@@ -1,8 +1,8 @@
 ## So Fresh and So Green Octopress Theme
 
-So Fresh and So Green is a straightforward Octopress theme. It focuses on excellent readability.
+Tweaks and adjustments to [SoFreshAndSoGreen](https://github.com/johnkeith/sofreshandsogreen)
 
-![So Fresh and So Green](http://gdurl.com/i4Wr)
+So Fresh and So Green is a straightforward Octopress theme. It focuses on excellent readability.
 
 To this end, the Octopress sidebar is disabled and the navigation is affixed to the top.
 
