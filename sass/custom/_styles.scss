@@ -6,6 +6,34 @@ html {
 	background:$page-bg;
 }
 
+
+
+.icon {
+  font-size: 72px;
+  margin-right: 0.25em;
+}
+
+/* unvisited link */
+.icon:link {
+    text-decoration: none;
+}
+
+/* visited link */
+.icon:visited {
+    text-decoration: none;
+}
+
+/* mouse over link */
+.icon:hover {
+    text-decoration: none;
+}
+
+/* selected link */
+.icon:active {
+    text-decoration: none;
+}
+
+
 body {
   > div {
       max-width:920px;
